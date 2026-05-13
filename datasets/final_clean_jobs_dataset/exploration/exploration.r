@@ -32,5 +32,5 @@ df1_corregido %>%
   summarise(avg_salary = mean(salary_avg, na.rm = TRUE))
 
 
-ggplot(df1_corregido, aes(x = num_skills, y = salary_avg, color = country)) +
+ggplot(df1_corregido, aes(x = salary_avg, y = num_skills, color = country)) +
   geom_point(na.rm = TRUE)
