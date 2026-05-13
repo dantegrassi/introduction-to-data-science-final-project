@@ -10,6 +10,8 @@ https://www.kaggle.com/datasets/hussnainmamoon1/llm-hallucination-benchmark-v2-2
 
 https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 
+https://mavenanalytics.io/data-playground/s-p-500-stock-prices
+
 Que incluye este proyecto:
 
 -La limpieza de un dataset completo.
