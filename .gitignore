@@ -49,3 +49,28 @@ po/*~
 rsconnect/
 .Rproj.user
 .positai
+
+# R data files
+*.Rds
+*.rds
+*.Rda
+*.rda
+
+# renv (local package manager)
+renv/
+renv/library/
+renv/staging/
+
+# Python virtual environments
+.env/
+.venv/
+env/
+venv/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
